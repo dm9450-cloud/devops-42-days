@@ -1,0 +1,1 @@
+*/5 * * * * /home/skyhighwithdip/devops-42-days/day07-automation/disk_alert.sh 80 >> /tmp/disk_alert.log 2>&1

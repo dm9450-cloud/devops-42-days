@@ -10,3 +10,4 @@ Every day: what I learned, commands, scripts.
 | 05 | Network troubleshooting |
 | 06 | Bash basics |
 | 07 | Automation and cron |
+| 08 | Git deep dive |
